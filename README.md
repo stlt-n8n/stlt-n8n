@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vlad
 
-<!--
-**stlt-n8n/stlt-n8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Specialist | AI Automation
 
-Here are some ideas to get you started:
+Building AI-powered workflow automations with modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- n8n
+- OpenAI API
+- REST APIs
+- JSON
+- Webhooks
+- Google Workspace
+- Git & GitHub
+
+## Featured Project
+
+### AI Job Match Analyzer
+
+AI-powered n8n workflow that analyzes job vacancies, scores candidate fit and saves structured results to Google Sheets.
+
+## Currently Learning
+
+- AI Agents
+- Workflow Automation
+- Business Process Automation
+
+---
