@@ -11,7 +11,7 @@ Building AI-powered workflow automations with modern tools.
 - REST APIs
 - JSON
 - Webhooks
-- Google Workspace
+- JavaScript
 - Git & GitHub
 
 ## Featured Project
